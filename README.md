@@ -1,8 +1,5 @@
 # Self-Solar-Sweep
 
--> You can gothrough [Presentation](https://www.canva.com/design/DAFnGd2fHg8/UhtrEhUYv0IKT7KHTgIssw/view?utm_content=DAFnGd2fHg8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#8) to get information about the project.
-
-
 
 https://github.com/RuchitJagodara/Self-Solar-Sweep/assets/137716667/1ce1efb7-5bce-49c1-b6fe-a6f58302bbca
 
@@ -16,3 +13,6 @@ Originally, our vision encompassed the integration of a machine learning model d
 In this repository, you will find our project's source code, schematics, documentation, and other resources. Feel free to explore, contribute, and adapt our work for your own projects. Your feedback and involvement are greatly appreciated as we continue to refine and enhance this automatic solar panel cleaning system.
 
 Thank you for taking an interest in our project!
+
+
+-> You can gothrough [Presentation](https://www.canva.com/design/DAFnGd2fHg8/UhtrEhUYv0IKT7KHTgIssw/view?utm_content=DAFnGd2fHg8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#8) to get information about the project.
